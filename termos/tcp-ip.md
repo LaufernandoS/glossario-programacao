@@ -1,1 +1,0 @@
-TCP/IP -  Transmission Control Protocol / Internet Protocol. O primeiro é o layer de transporte que sabe de onde os dados vêm, os separa em pacotes menores e contêm informação da reordenação desses dados; nele se concentram boa parte das aplicações cibernéticas como o SSH, FTP e HTTP. O segundo, layer de internet que anexa a origem e o destino dos dados.
