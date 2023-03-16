@@ -1,1 +1,0 @@
-URL – Uniform Resource Locator. Endereço de uma página específica. Normalmente, temos o protocolo https, o domínio referente ao site e um subdiretório (pode haver subdomínio também). O subdomínio .m é utilizado para sites concebidos especificamente para versões mobile.
