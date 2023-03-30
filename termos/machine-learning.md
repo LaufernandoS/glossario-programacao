@@ -1,0 +1,1 @@
+Machine Learning - ou Aprendizado de Máquina, ramo da Ciência da Computação focado na concepção de computadores capazes de aprender sem programação explícita. Pode se aplicar a diversos modelos como geração de imagens, algoritmos de recomendação, entre outros.
